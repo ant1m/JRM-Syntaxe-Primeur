@@ -1,5 +1,1 @@
-Une modeste tentative de traduire [ce document](http://hipster.home.xs4all.nl/lib/scheme/gauche/define-syntax-primer.txt).
-
-L'objectif est de rendre le document compréhensible. 
-
-Le style est très moyen et peut grandement être amélioré.
+Une modeste tentative de traduire [ce document](http://hipster.home.xs4all.nl/lib/scheme/gauche/define-syntax-primer.txt) avec la seule ambition de le rendre compréhensible. Donc peu d'attention portée au style. Peut-être dans une prochaine version...
