@@ -214,7 +214,7 @@ quote :
     (define-syntax nth-value
           (syntax-rules ()
             ((_ n values-producing-form)
-             '(call-with-values                    ;; Note the quote!
+             '(call-with-values                    ;; Notez la quote!
                 (lambda () values-producing-form)
                 (lambda all-values
                   (list-ref all-values n))))))
